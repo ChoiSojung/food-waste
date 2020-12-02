@@ -1,6 +1,6 @@
 # food-waste-mobile
 
-## Prototype for mobile app that helps users track food expiry dates in their pantry/fridge.
+Prototype for mobile app that helps users track food expiry dates in their pantry/fridge.
 
 ## Running the app: 
 1. Clone this repo
