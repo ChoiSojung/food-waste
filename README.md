@@ -40,7 +40,7 @@ Run adb devices, ensure you can see one new device
 Open Expo Dev Tools
 Click on the Run on Android device/emulator
 
-## Running the app on in a simulator/emulator in Android
+## Running the app in a simulator/emulator in Android
 1. Open CMD and run adb start-server
 2. Open Genymotion and start virtual device
 3. Run expo start
