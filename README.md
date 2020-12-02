@@ -1,15 +1,15 @@
 # food-waste-mobile
 
-Prototype for mobile app that helps users track food expiry dates in their pantry/fridge.
+## Prototype for mobile app that helps users track food expiry dates in their pantry/fridge.
 
-Running the app: 
+## Running the app: 
 1. Clone this repo
 2. cd into the project folder you just cloned
 3. Open CMD
 Run npm install
 Run expo start
 
-First time running the app in a simulator/emulator in Android:
+## First time running the app in a simulator/emulator in Android:
 1. Install Android Studio
 2. Install Genymotion with Virtual Box
 3. Open Android Studio
@@ -40,13 +40,13 @@ Run adb devices, ensure you can see one new device
 Open Expo Dev Tools
 Click on the Run on Android device/emulator
 
-Running the app on in a simulator/emulator in Android
+## Running the app on in a simulator/emulator in Android
 1. Open CMD and run adb start-server
 2. Open Genymotion and start virtual device
 3. Run expo start
 4. Click on the Run on Android device/emulator 
 
-Running the app on an Android device:
+## Running the app on an Android device:
 1. Download expo mobile app on your device
 2. Run the app
 3. Open the expo app and capture the QR code in the CMD window
